@@ -1,0 +1,47 @@
+p
+    {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
+    color:gold;
+     }
+     .sports {
+         color:white;
+     }
+     div {
+     background-color:white;
+     margin-top:50px;
+     padding:0px;
+     border-width:8px;
+     border-style:solid;
+     content:0px;
+     border-color: rgba(14, 30, 82, 0.308);
+     border-radius:30px;
+     text-align:center;
+     padding:0px;
+     float: left;
+     margin:50px;
+     }
+     body {
+         background-color:grey;
+     }
+     div p {
+        color:aquamarine;
+        width: 115mm;
+    }
+    ul {
+        font-size: 30px;
+        margin-bottom: 50px;
+        margin-top:50px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
+        .Hockey {
+            size:1000px;
+            padding-top: 8px;
+        }
+        .windsurfing {
+            padding:8px;
+
+        }
+        
+    
